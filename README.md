@@ -32,8 +32,8 @@ I’m a passionate Data Science student focused on turning complex datasets into
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Pranq-lgtm]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Pranq-lgtm]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranq-lgtm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranq-lgtm&layout=compact&theme=radical)
 
 ---
 

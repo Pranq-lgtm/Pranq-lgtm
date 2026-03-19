@@ -39,4 +39,4 @@ I’m a passionate Data Science student focused on turning complex datasets into
 
 ### 📫 Let's Connect!
 
-[https://www.linkedin.com/in/pranav-kantak-b77223325/](https://www.linkedin.com/in/pranav-kantak-b77223325/) | [Email](pranavkantak9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pranav-sadanand-kantak-b77223325/)| [Email](pranavkantak9@gmail.com)

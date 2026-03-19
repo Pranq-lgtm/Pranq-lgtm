@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav Sadanand Knatak! 👋
+# Hi there, I'm Pranav Sadanand Kantak! 👋
 
 ### 📊 BSc Data Science Student | Aspiring Data Scientist
 
